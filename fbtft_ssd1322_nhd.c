@@ -12,7 +12,7 @@
 #define WIDTH       128
 #define HEIGHT      64
 #define GAMMA_NUM   1
-
+#define GAMMA_LEN   15
 #define DEFAULT_GAMMA "1 1 1 1 1 2 2 3 3 4 4 5 5 6 6"
 
 const s16 init[] = {			/* Initialization for NHD-2.7-12864WDW3 OLED display */
